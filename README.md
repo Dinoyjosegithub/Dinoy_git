@@ -1,2 +1,2 @@
 # Dinoy_git
-This is fot tutorial purpose.
+This is for tutorial purpose.
